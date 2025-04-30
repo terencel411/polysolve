@@ -10,7 +10,7 @@ readme = "README.md"
 description = ""
 license = {text = "BSD-3-Clause"}
 
-keywords = ["python"]
+keywords = []
 dependencies = ["numpy"]
 # classifiers = []
 dynamic = ["version"]
