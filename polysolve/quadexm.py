@@ -1,18 +1,19 @@
 from __future__ import annotations
+import numpy as np
 
 def quadratic(a: float, b: float, c: float) -> tuple[float, float]:
-     """
-     Solves the roots of a quadratic equation.
+    """
+    Solves the roots of a quadratic equation.
 
-     Uses the quadratic formula. Result must be real.
+    Uses the quadratic formula. Result must be real.
 
-     Parameters
-     ----------
-     a
+    Parameters
+    ----------
+    a
         :math:`x^2` coefficient.
-     b
+    b
         :math:`x` coefficient.
-     c
+    c
         Constant value.
 
     Returns
