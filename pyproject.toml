@@ -4,15 +4,15 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "polysolve"
-authors = [{name = "Terence", email = "terence.lobo@stfc.ac.uk"}]
+authors = [{name="Terence",email="terence.lobo@stfc.ac.uk"}]
 requires-python = ">= 3.8"
 readme = "README.md"
 description = ""
 license = {text = "BSD-3-Clause"}
 
-keywords = []
+keywords = ["python"]
 dependencies = ["numpy"]
-classifiers = []
+# classifiers = []
 dynamic = ["version"]
 
 [project.urls]
