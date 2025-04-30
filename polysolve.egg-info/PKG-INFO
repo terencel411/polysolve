@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: polysolve
+Version: 0.1b0
+Author-email: Terence <terence.lobo@stfc.ac.uk>
+License: BSD-3-Clause
+Project-URL: Homepage, https://github.com/terencel411/polysolve
+Project-URL: Repository, https://github.com/terencel411/polysolve.git
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+
+x
